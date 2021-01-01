@@ -106,3 +106,12 @@ is a Product Manager at Microsoft working on developer tools. He has over a deca
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
+## Chapters
+* Chapter 1: Meet Svelte
+* Chapter 2: Scaffolding Your Svelte Project
+* Chapter 3: Building Reactive Svelte Components
+* Chapter 4: Putting Your App Together
+* Chapter 5: Single-Page Applications with Svelte
+* Chapter 6: Going to Production
+* Chapter 7: Looking Forward
